@@ -22,6 +22,6 @@ I see dead people! This's fine!
 The Answer to the Ultimate Question of Life, the Universe, and Everything is 42
 ```
 
-## Relative link:
+## Related links:
 
 * [PEP328 Imports: Multi-Line and Absolute/Relative](https://www.python.org/dev/peps/pep-0328/)
